@@ -5,29 +5,30 @@ body {
 }
 
 h1 {
-  font-size:100;
+  font-size:100px;
 }
 
 h2 {
-  font-size:89;
+  font-size:89px;
 }
 
 h3 {
-  font-size:78;
+  font-size:78px;
 }
 
 h4 {
-  font-size:67;
+  font-size:67px;
 }
 
 h5 {
-  font-size:56;
+  font-size:56px;
 }
 
 h6 {
-  font-size:45;
+  font-size:45px;
 }
 
 h7 {
-  font-size:34;
+  font-size:34px;
+  font-weight:bold;
 }
